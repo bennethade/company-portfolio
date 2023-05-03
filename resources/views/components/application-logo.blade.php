@@ -1,0 +1,1 @@
+<img src="{{ asset('logo/glo.jpg') }}" alt=""width="100px">
